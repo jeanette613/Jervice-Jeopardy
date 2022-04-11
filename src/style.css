@@ -1,0 +1,64 @@
+html {
+    font-family: 'Source Code Pro', monospace;
+    background: rgba(8, 86, 120, 0.908);
+    text-align: center;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: rgba(223, 168, 3, 0.741);
+    text-align: center;
+}
+
+h3 {
+    color: white
+}
+
+div {
+    float: center;
+}
+
+.decreasebtn {
+    line-height: 2px;
+    border-radius: 5px;
+    background-color: salmon;
+    height: 35px;
+    padding: 20px;
+}
+
+.increasebtn {
+    line-height: 2px;
+    border-radius: 5px;
+    background-color: rgb(84, 102, 176);
+    height: 35px;
+    padding: 20px;
+}
+
+.resetbtn {
+    line-height: 2px;
+    border-radius: 5px;
+    background-color: red;
+    height: 35px;
+    padding: 20px;
+}
+
+.clueButton {
+    line-height: 2px;
+    border-radius: 5px;
+    background-color: rgba(223, 168, 3, 0.741);
+    height: 35px;
+    padding: 20px;
+}
+
+.revealQuestion {
+    font-family: 'Source Code Pro', monospace;
+    color: white;
+    background-color: rgb(44, 44, 161);
+    padding: 15px;
+    width: 420px;
+}

@@ -1,4 +1,4 @@
-import "./App.css";
+import "./style.css";
 import MainPage from "./components/MainPage"
 import { Route, Routes } from "react-router-dom";
 function App() {
